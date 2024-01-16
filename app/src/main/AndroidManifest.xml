@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_aleksin"
+        android:label="@string/app_name"
+        android:roundIcon="@color/white"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
+        <activity
+            android:name=".Logo_Activity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Navigaton.DostopriActitvity"
+            android:exported="true"
+            android:label="@string/app_name3"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
+            <intent-filter>
+                <action android:name="com.example.aleksin.DostopriActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Navigaton.ShopActivity"
+            android:exported="true"
+            android:label= "@string/app_name3"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
+            <intent-filter>
+                <action android:name="com.example.aleksin.ShopActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Navigaton.SchoolActivity"
+            android:exported="true"
+            android:label="@string/app_name4"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
+            <intent-filter>
+                <action android:name="com.example.aleksin.SchoolActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Navigaton.AleksinActivity"
+            android:exported="true"
+            android:label= "@string/app_name3"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
+            <intent-filter>
+                <action android:name="com.example.aleksin.ShopActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Text_Content_Activitys.Text_Content_Activity" android:theme="@style/Theme.Aleksin.NoActionBar"/>
+        <activity android:name=".MainActivity" android:theme="@style/Theme.Aleksin.NoActionBar" />
+        <activity android:name=".Shop.OdezhdaActivity"  />
+        <activity android:name=".Shop.VapeActivity"  />
+        <activity android:name=".Shop.ProductsActivity"  />
+        <activity android:name=".Shop.HoztovarsActivity" />
+        <activity android:name=".Shop.ElectronicsActivity"  />
+        <activity android:name=".Shop.SportsActivity" />
+        <activity android:name=".Shop.ZootovarsActivity" />
+        <activity android:name=".Shop.TorgZentrActivity" />
+        <activity android:name=".Text_Content_Activitys.Text_Content_Activity_Shops" android:theme="@style/Theme.Aleksin.NoActionBar" />
+        <activity android:name=".Schools.SchoolaActivity" />
+        <activity android:name=".Text_Content_Activitys.Text_Content_Activity_School" android:theme="@style/Theme.Aleksin.NoActionBar" />
+        <activity android:name=".Schools.CollegeActivity"/>
+        <activity android:name=".settings.SettingsActivity"/>
+
+
+    </application>
+
+</manifest>

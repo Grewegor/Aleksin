@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aleks_array">
+    <item>Происхождение города Алексин</item>
+    <item>История строительства Соцгорода</item>
+</string-array>
+    <string-array name="dostopri_array">
+        <item>Алексин-бор</item>
+        <item>Барский дом</item>
+        <item>Гигантский стул</item>
+        <item>Храм Воскресения Христовах</item>
+        <item>Художественно-краеведческий музей</item>
+        <item>Лысая гора</item>
+        <item>Памятник Ленину</item>
+        <item>Кинотеатр "Союз"</item>
+        <item>Парк "Жалка"</item>
+        <item>Мемориал Курган Славы</item>
+        <item>Станция «Рюриково»</item>
+        <item>Колосовский замок</item>
+        <item>Мемориальный комплекс в память событий 1472 года</item>
+        <item>Царевиче-Алексиевский храм</item>
+    </string-array>
+    <string-array name="достопримечательности_бора">
+        <item>Алексин-бор</item>
+        <item>Лысая гора</item>
+        <item>Кинотеатр "Союз"</item>
+    </string-array>
+    <string-array name="достопримечательности_соцгорода">
+    </string-array>
+    <string-array name="достопримечательности_второго">
+    </string-array>
+    <string-array name="достопримечательности_горушки">
+        <item>Парк "Жалка"</item>
+    </string-array>
+    <string-array name="достопримечательности_старый">
+        <item>Гигантский стул</item>
+        <item>Художественно-краеведческий музей</item>
+    </string-array>
+
+
+    <string-array name="shop_products_array">
+        <item>SPAR Гипермаркет</item>
+        <item>SPAR</item>
+        <item>Мисс</item>
+        <item>Пятёрочка</item>
+        <item>Магнит</item>
+        <item>Красное|Белое</item>
+        <item>Светофор</item>
+        <item>Fix Price</item>
+    </string-array>
+    <string-array name="shop_hoztovats_array">
+        <item>Магнит косметик</item>
+        <item>Fix Price</item>
+    </string-array>
+    <string-array name="shop_vape_array">
+        <item>Дымshop</item>
+        <item>Смоk|Mix</item>
+        <item>Justmint</item>
+        <item>Time To Vape</item>
+        <item>Sweets smokes</item>
+    </string-array>
+    <string-array name="shop_elcronics_array">
+        <item>МТС</item>
+        <item>DNS</item>
+        <item>Эльдорадо</item>
+        <item>Связной</item>
+        <item>Netwit</item>
+    </string-array>
+    <string-array name="shop_sports_array">
+        <item>Рыбалка, спорт, туризм</item>
+        <item>Мир спорта</item>
+    </string-array>
+    <string-array name="shop_odezhda_array">
+        <item>Гигант</item>
+        <item>Gloria Jeans</item>
+        <item>Kari ГИПЕР</item>
+    </string-array>
+    <string-array name="shop_zootovats_array">
+        <item>Зоогалерея</item>
+        <item>МилорД</item>
+        <item>Айболит</item>
+    </string-array>
+    <string-array name="shop_torgzentr_array">
+        <item>Октябрьский</item>
+        <item>Золотая аллея</item>
+        <item>Комсомольский</item>
+        <item>Слобода-2</item>
+        <item>МЦ Диагональ</item>
+        <item>Коммерсант</item>
+        <item>Центральный</item>
+    </string-array>
+    <string-array name="school_array">
+        <item>МБОУ СОШ № 11</item>
+        <item>МБОУ Гимназия № 18</item>
+        <item>МБОУ СОШ № 3</item>
+        <item>МБОУ Спас-Конинская СОШ№24</item>
+        <item>МБОУ Шелепинская СОШ № 27</item>
+        <item>МБОУ СОШ №9</item>
+        <item>МБОУ СОШ №1</item>
+        <item>МБОУ Поповская СОШ №19</item>
+        <item>МБОУ Борисовская НОШ №26</item>
+        <item>МБОУ Сеневская СОШ №21</item>
+        <item>МБОУ Авангардская СОШ №7</item>
+        <item>МБОУ Пушкинская СОШ №22</item>
+        <item>МБОУ Буныревская СОШ №14</item>
+        <item>МБОУ Гимназия №13</item>
+    </string-array>
+    <string-array name="college_array">
+        <item>Алексинский машиностроительный техникум</item>
+        <item>Алексинский гидрометеорологический техникум</item>
+        <item>Алексинский химико технологический техникум</item>
+    </string-array>
+    <string-array name="predpri_array">
+        <item>АО НПО "Тяжпромарматура"</item>
+        <item>Алексинский керамзитовый завод</item>
+        <item>Алексинская бумажно-картонная фабрика</item>
+        <item>Алексинский стекольный завод</item>
+    </string-array>
+    <string-array name="main_text_size_array">
+        <item>Большой</item>
+        <item>Средний</item>
+        <item>Маленький</item>
+    </string-array>
+</resources>
