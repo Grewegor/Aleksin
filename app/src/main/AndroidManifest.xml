@@ -7,7 +7,7 @@
         android:label="@string/app_name"
         android:roundIcon="@color/white"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
+        android:theme="@style/Theme.Aleksin.NoActionBar">
         <activity
             android:name=".Logo_Activity"
             android:exported="true">
@@ -20,7 +20,7 @@
             android:name=".Navigaton.DostopriActitvity"
             android:exported="true"
             android:label="@string/app_name3"
-            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
+            android:theme="@style/Theme.Aleksin.NoActionBar">
             <intent-filter>
                 <action android:name="com.example.aleksin.DostopriActivity" />
                 <category android:name="android.intent.category.DEFAULT" />
@@ -30,7 +30,7 @@
             android:name=".Navigaton.ShopActivity"
             android:exported="true"
             android:label= "@string/app_name3"
-            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
+            android:theme="@style/Theme.Aleksin.NoActionBar">
             <intent-filter>
                 <action android:name="com.example.aleksin.ShopActivity" />
                 <category android:name="android.intent.category.DEFAULT" />
@@ -40,7 +40,7 @@
             android:name=".Navigaton.SchoolActivity"
             android:exported="true"
             android:label="@string/app_name4"
-            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
+            android:theme="@style/Theme.Aleksin.NoActionBar">
             <intent-filter>
                 <action android:name="com.example.aleksin.SchoolActivity" />
                 <category android:name="android.intent.category.DEFAULT" />
@@ -50,7 +50,7 @@
             android:name=".Navigaton.AleksinActivity"
             android:exported="true"
             android:label= "@string/app_name3"
-            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
+            android:theme="@style/Theme.Aleksin.NoActionBar">
             <intent-filter>
                 <action android:name="com.example.aleksin.ShopActivity" />
                 <category android:name="android.intent.category.DEFAULT" />
@@ -58,18 +58,18 @@
         </activity>
         <activity android:name=".Text_Content_Activitys.Text_Content_Activity" android:theme="@style/Theme.Aleksin.NoActionBar"/>
         <activity android:name=".MainActivity" android:theme="@style/Theme.Aleksin.NoActionBar" />
-        <activity android:name=".Shop.OdezhdaActivity"  />
-        <activity android:name=".Shop.VapeActivity"  />
-        <activity android:name=".Shop.ProductsActivity"  />
-        <activity android:name=".Shop.HoztovarsActivity" />
-        <activity android:name=".Shop.ElectronicsActivity"  />
-        <activity android:name=".Shop.SportsActivity" />
-        <activity android:name=".Shop.ZootovarsActivity" />
-        <activity android:name=".Shop.TorgZentrActivity" />
+        <activity android:name=".Shop.OdezhdaActivity" android:theme="@style/Theme.Aleksin.NoActionBar" />
+        <activity android:name=".Shop.VapeActivity" android:theme="@style/Theme.Aleksin.NoActionBar"/>
+        <activity android:name=".Shop.ProductsActivity" android:theme="@style/Theme.Aleksin.NoActionBar"/>
+        <activity android:name=".Shop.HoztovarsActivity" android:theme="@style/Theme.Aleksin.NoActionBar"/>
+        <activity android:name=".Shop.ElectronicsActivity" android:theme="@style/Theme.Aleksin.NoActionBar"/>
+        <activity android:name=".Shop.SportsActivity" android:theme="@style/Theme.Aleksin.NoActionBar"/>
+        <activity android:name=".Shop.ZootovarsActivity" android:theme="@style/Theme.Aleksin.NoActionBar"/>
+        <activity android:name=".Shop.TorgZentrActivity" android:theme="@style/Theme.Aleksin.NoActionBar"/>
         <activity android:name=".Text_Content_Activitys.Text_Content_Activity_Shops" android:theme="@style/Theme.Aleksin.NoActionBar" />
-        <activity android:name=".Schools.SchoolaActivity" />
+        <activity android:name=".Schools.SchoolaActivity" android:theme="@style/Theme.Aleksin.NoActionBar"/>
         <activity android:name=".Text_Content_Activitys.Text_Content_Activity_School" android:theme="@style/Theme.Aleksin.NoActionBar" />
-        <activity android:name=".Schools.CollegeActivity"/>
+        <activity android:name=".Schools.CollegeActivity" android:theme="@style/Theme.Aleksin.NoActionBar"/>
         <activity android:name=".settings.SettingsActivity"/>
 
 
